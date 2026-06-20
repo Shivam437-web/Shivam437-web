@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @Shivam437-web
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Shivam Kumar 👋
 
-<!---
-Shivam437-web/Shivam437-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Web Developer
+
+I create responsive websites using:
+
+- HTML
+- CSS
+- JavaScript
+
+## My Projects
+
+- Gym Website
+- Computer Institute Website
+- Restaurant Website
+- Portfolio Website
+
+## Contact
+
+Email: shivamkumarranjan755@gmail.com
+## 📞 Contact Me
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green)](https://wa.me/+917065716403)
+GitHub: https://github.com/Shivam437-web
